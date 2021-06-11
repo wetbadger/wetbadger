@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wetbadger
 - 👀 I’m interested in games, video and natural language processing
-- 🌱 I’m currently learning java, python
+- 🌱 I’m currently learning java, python, c++
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me ...
 
